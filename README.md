@@ -7,3 +7,7 @@ You can read more about this project on my [Medium article](https://oluwafisayom
 2. The colour palette for my dashboard was gotten from the DataFest Africa logo and the hexcodes are in the Palette hexcodes text file
 3. Visuals.png shows the dashboard created
 4. The file 'code' contains the code used for this project
+5. DFA22_master contains the cleaned and processed text
+
+## Additional information
+Link to the macros used can be found [here](https://github.com/gramener/geocode-excel)
